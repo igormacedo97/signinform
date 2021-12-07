@@ -1,6 +1,6 @@
 <!-- ************************************* Imagem ********************************************* -->
 <div align="center">
-  <img src="form.png" alt="Imagem formúlario - projeto">
+  <img src="assets/form.png" alt="Imagem formúlario - projeto">
 </div>
 
 <!-- ************************************* Título ********************************************* -->
