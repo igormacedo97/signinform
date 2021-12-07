@@ -5,7 +5,7 @@
 
 <!-- ************************************* Título ********************************************* -->
 
-# Sing in Form
+# Sign in Form
 
 Um simples formúlario desenvolvidos com ténicas de boas práticas para aperfeiçoar minhas habilidades em front-end.
 
